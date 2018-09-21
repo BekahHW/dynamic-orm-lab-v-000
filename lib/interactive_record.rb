@@ -4,8 +4,7 @@
 
 # class InteractiveRecord
   
-#   # attr_accessor :id, :name, :content
-  
+
 #   def self.table_name
 #     self.to_s.downcase.pluralize
 #   end
